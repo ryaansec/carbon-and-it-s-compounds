@@ -1,0 +1,15 @@
+Programs Included:
+Carbon Cycle Simulation
+
+Simulate the carbon cycle with an interactive program. Explore how carbon moves between the atmosphere, oceans, and land. A visual representation provides a dynamic understanding of this crucial environmental process.
+Tetravalency Formation Animation
+
+Experience the formation of molecules with tetravalency. This interactive animation allows users to build molecules by adding different atoms, providing a hands-on approach to learning about chemical bonding.
+Carbon Footprint Calculator
+
+Estimate your carbon footprint by inputting data on transportation distances and electricity usage. Gain insights into the environmental impact of daily activities with this practical calculator.
+Alkane Formation Simulator
+
+Witness the step-by-step formation of an alkane molecule. Users can interactively add carbon and hydrogen atoms, visualizing the molecular structure in real-time.
+How to Use
+Each program comes with user-friendly interfaces and clear instructions to make learning interactive and enjoyable. Follow the prompts, input values, and observe the outcomes to deepen your understanding of carbon-related concepts.
